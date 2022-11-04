@@ -3,10 +3,10 @@ Modularino is a whole system composed of multiple PCBs: there's the motherboard 
 
 
 
-MPU: they have a total of 5 mezzanine connector so you can choose your mpu module and simply snap it on top of the motherboard, you can choose the module based on your necessity, if you need a wifi feature to your project you just snap on the ESP module and so on...
+- MPU: they have a total of 5 mezzanine connector so you can choose your mpu module and simply snap it on top of the motherboard, you can choose the module based on your necessity, if you need a wifi feature to your project you just snap on the ESP module and so on...
 
 
-USB: you can choose what usb connector to use on your board based on the cable you have or the usb type you like more, so you don't need to find the specific cable for your board. For example is so annoying when you have your arduino nano wich needs a usb mini B connector and you can't find the cable, with modularino you can choose what usb port to use!
+- USB: you can choose what usb connector to use on your board based on the cable you have or the usb type you like more, so you don't need to find the specific cable for your board. For example is so annoying when you have your arduino nano wich needs a usb mini B connector and you can't find the cable, with modularino you can choose what usb port to use!
 
 
 Modularino motherboard works as a development board so you have all the GPIO connectors and others to make your best electronics projects!
