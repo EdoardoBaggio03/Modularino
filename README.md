@@ -1,5 +1,4 @@
-![Immagine 2023-02-16 152313](https://user-images.githubusercontent.com/102879259/219391611-ac6b1fe4-5904-4116-b0f2-95f73ac257cf.png)
-![bottom](https://user-images.githubusercontent.com/102879259/219391675-64891d52-dc83-44f4-a928-20fb22e97843.png)
+
 # Modularino
 Modularino is a whole system composed of multiple PCBs: there's the motherboard wich has the necessary components to connect all the modules and the connectors to plug in the modules. The modules consists of multiple MPU types with diffrent carateristics:
 
@@ -21,4 +20,11 @@ To summarize: Modularino is a base board with all the breakout GPIO pins where y
 
 
 For further information and schematics check the modularino github page: https://github.com/EdoardoBaggio03/interchangeable-usb-connectors
+# 3D view
+![Immagine 2023-02-16 152313](https://user-images.githubusercontent.com/102879259/219391611-ac6b1fe4-5904-4116-b0f2-95f73ac257cf.png)
+![bottom](https://user-images.githubusercontent.com/102879259/219391675-64891d52-dc83-44f4-a928-20fb22e97843.png)
+
+# 2D raw pcb view
+![PCB top](https://user-images.githubusercontent.com/102879259/219392039-9c5d5c67-841a-4494-907c-05bc4520acc0.png)
+![PCB bottom](https://user-images.githubusercontent.com/102879259/219392057-8e205330-5c20-427d-a049-137ff45810b4.png)
 
