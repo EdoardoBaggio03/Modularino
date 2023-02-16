@@ -1,3 +1,5 @@
+![Immagine 2023-02-16 152313](https://user-images.githubusercontent.com/102879259/219391611-ac6b1fe4-5904-4116-b0f2-95f73ac257cf.png)
+![bottom](https://user-images.githubusercontent.com/102879259/219391675-64891d52-dc83-44f4-a928-20fb22e97843.png)
 # Modularino
 Modularino is a whole system composed of multiple PCBs: there's the motherboard wich has the necessary components to connect all the modules and the connectors to plug in the modules. The modules consists of multiple MPU types with diffrent carateristics:
 
