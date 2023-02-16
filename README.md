@@ -19,3 +19,5 @@ To summarize: Modularino is a base board with all the breakout GPIO pins where y
 
 
 For further information and schematics check the modularino github page: https://github.com/EdoardoBaggio03/interchangeable-usb-connectors
+
+[embed]https://github.com/EdoardoBaggio03/Modularino/blob/main/Schematics/Motherboard%20Schematic.pdf[/embed]
